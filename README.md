@@ -1,6 +1,6 @@
 ## Integer Linear Program for DASH encoding at Runtime
 
-This project contains a Linear Integer Programm (ILP) calculating the optimal bandwidth usage for Dynamic
+This is a Linear Integer Programm (ILP) calculating the optimal bandwidth usage for Dynamic
 Adaptive Streaming over HTTP (DASH) for Video content. It utilizes the `Gurobi Optimizer` framework.
 
 The overreaching objective for the ILP is to calculate and maximize the download volume of a DASH stream. Hereby we want
